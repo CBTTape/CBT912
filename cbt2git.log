@@ -1,0 +1,11 @@
+2023-08-06 08:23:49.460279 - Initialized conversion of CBT912
+2023-08-06 08:23:50.313236 - Received CBT.V505.FILE912.PDS from FILE912.XMI 
+2023-08-06 08:23:50.315457 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE912.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:23:50.316342 - Found $PDSLOAD.jcl (text/plain) in CBT.V505.FILE912.PDS, moved to PDS/$PDSLOAD
+2023-08-06 08:23:50.316349 - Found #PDSLOAD.bin containing application/octet-stream, moved to PDS/#PDSLOAD
+2023-08-06 08:23:50.318237 - Found @FILE912.txt (text/plain) in CBT.V505.FILE912.PDS, moved to PDS/@FILE912
+2023-08-06 08:23:50.319388 - Found MACS.txt (text/plain) in CBT.V505.FILE912.PDS, moved to PDS/MACS
+2023-08-06 08:23:50.320373 - Found MACSCPY.txt (text/plain) in CBT.V505.FILE912.PDS, moved to PDS/MACSCPY
+2023-08-06 08:23:50.320380 - Found SPLAFILE.bin containing application/octet-stream, moved to PDS/SPLAFILE
+2023-08-06 08:23:50.325239 - Found SPM.txt (text/plain) in CBT.V505.FILE912.PDS, moved to PDS/SPM
+2023-08-06 08:23:50.326156 - Found SPMCPY.txt (text/plain) in CBT.V505.FILE912.PDS, moved to PDS/SPMCPY
