@@ -1,10 +1,10 @@
-2025-04-15 06:45:13.714866 - Received CBT.V508.FILE912.PDS from FILE912.XMI 
-2025-04-15 06:45:13.715888 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE912.PDS, moved to PDS/$$$#DATE
-2025-04-15 06:45:13.716031 - Found $PDSLOAD.jcl (text/plain) in CBT.V508.FILE912.PDS, moved to PDS/$PDSLOAD
-2025-04-15 06:45:13.716233 - Found #PDSLOAD.bin (application/octet-stream) in CBT.V508.FILE912.PDS, moved to PDS/#PDSLOAD
-2025-04-15 06:45:13.716378 - Found @FILE912.txt (text/plain) in CBT.V508.FILE912.PDS, moved to PDS/@FILE912
-2025-04-15 06:45:13.717178 - Found MACS.txt (text/plain) in CBT.V508.FILE912.PDS, moved to PDS/MACS
-2025-04-15 06:45:13.717336 - Found MACSCPY.txt (text/plain) in CBT.V508.FILE912.PDS, moved to PDS/MACSCPY
-2025-04-15 06:45:13.724638 - Found SPLAFILE.bin (application/octet-stream) in CBT.V508.FILE912.PDS, moved to PDS/SPLAFILE
-2025-04-15 06:45:13.725067 - Found SPM.txt (text/plain) in CBT.V508.FILE912.PDS, moved to PDS/SPM
-2025-04-15 06:45:13.725264 - Found SPMCPY.txt (text/plain) in CBT.V508.FILE912.PDS, moved to PDS/SPMCPY
+2025-04-16 01:25:52.206363 - Received CBT.V508.FILE912.PDS from FILE912.XMI 
+2025-04-16 01:25:52.207143 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE912.PDS, moved to PDS/$$$#DATE
+2025-04-16 01:25:52.207199 - Found $PDSLOAD.jcl (text/plain) in CBT.V508.FILE912.PDS, moved to PDS/$PDSLOAD
+2025-04-16 01:25:52.207247 - Found #PDSLOAD.bin (application/octet-stream) in CBT.V508.FILE912.PDS, moved to PDS/#PDSLOAD
+2025-04-16 01:25:52.207306 - Found @FILE912.txt (text/plain) in CBT.V508.FILE912.PDS, moved to PDS/@FILE912
+2025-04-16 01:25:52.207574 - Found MACS.txt (text/plain) in CBT.V508.FILE912.PDS, moved to PDS/MACS
+2025-04-16 01:25:52.207618 - Found MACSCPY.txt (text/plain) in CBT.V508.FILE912.PDS, moved to PDS/MACSCPY
+2025-04-16 01:25:52.210381 - Found SPLAFILE.bin (application/octet-stream) in CBT.V508.FILE912.PDS, moved to PDS/SPLAFILE
+2025-04-16 01:25:52.210448 - Found SPM.txt (text/plain) in CBT.V508.FILE912.PDS, moved to PDS/SPM
+2025-04-16 01:25:52.210488 - Found SPMCPY.txt (text/plain) in CBT.V508.FILE912.PDS, moved to PDS/SPMCPY
